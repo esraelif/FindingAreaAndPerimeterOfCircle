@@ -1,4 +1,3 @@
-// DOM yüklendiğinde çalışacak olan kodlar
 document.addEventListener("DOMContentLoaded", function () {
 
 

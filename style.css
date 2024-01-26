@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(./img/background.jpeg);
+    background-image: url(./img/joanna-kosinska-7ACuHoezUYk-unsplash.jpg);
     background-position: inherit;
     background-repeat: no-repeat;
     background-size: cover;
@@ -28,12 +28,12 @@ body {
     text-align: center;
     margin-top: 200px; 
     font-size: 3rem;
-    color: black;
+    color: wheat;
 }
 
 .input1-div {
     font-size: 2rem;
-    color: navy;
+    color: burlywood;
     font-weight: bold;
     text-align: center;
     display: flex;
