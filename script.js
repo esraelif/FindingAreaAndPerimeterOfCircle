@@ -1,10 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
 
-
-    // Yarıçap giriş alanını seç
+    // Yarıçap giriş ve diğer inputalanını seç
     const radiusInput = document.querySelector('.textbox1');
-
-    // Diğer input alanlarını seç
     const diameterInput = document.querySelector('.textbox2');
     const circumferenceInput = document.querySelector('.textbox3');
     const areaInput = document.querySelector('.textbox4');
